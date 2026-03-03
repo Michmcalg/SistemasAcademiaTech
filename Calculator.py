@@ -1,7 +1,11 @@
+#practica de while
+
 print("*****MENÚ*****")
 print("1. Ingresar saldo")
 print("2. Mostrar saldo")
 print("3. Salir")
+
+
 opcion = int(input("Elige una opción: "))
 
 saldo = 0

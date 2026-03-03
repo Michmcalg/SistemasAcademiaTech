@@ -1,5 +1,7 @@
+#practica de if y string methods
+
 while True:
-    user = input("Ingrese su usuario: ")
+    user = input("Ingrese su usuario, porfavor: ")
 
     if len(user) > 12:
         print("Su usuario no debe contener más de 12 caracteres.")
